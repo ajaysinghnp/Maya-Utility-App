@@ -37,7 +37,7 @@ PyQt5Designer==5.14.1
 pyqt5-plugins==5.15.4.2.2
 PyQt5-Qt5==5.15.2
 pytesseract==0.3.9
-python-dotenv==0.20.0
+python-dotenv==1.2.2
 pywin32-ctypes==0.2.0
 qt5-applications==5.15.2.2.2
 qt5-tools==5.15.2.1.2
